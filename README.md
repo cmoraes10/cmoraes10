@@ -20,7 +20,7 @@ Founder of **[MoWave](https://mowaveone.com)**, my software company, and the mak
 
 ### What I'm building
 
-**Lima** — my flagship product, a mobile app with more than 25,000 users. <!-- me manda uma frase do que o Lima faz que eu coloco aqui -->
+**[Lima](https://getlima.app)** — my flagship product, a productivity app with **25,000+ users** that brings calendar, habits, money, tasks and journaling into a single place. It ships with an AI assistant, a WhatsApp bot for logging on the go, and two-way Google Calendar and Google Tasks sync.
 
 ### Featured open-source
 
@@ -38,5 +38,6 @@ Founder of **[MoWave](https://mowaveone.com)**, my software company, and the mak
 
 ### Where to find me
 
-[![Website](https://img.shields.io/badge/mowaveone.com-e8a838?style=flat-square&logo=googlechrome&logoColor=white)](https://mowaveone.com)
-<!-- me manda teu LinkedIn que eu adiciono o badge aqui -->
+[![Lima](https://img.shields.io/badge/Lima-getlima.app-e8a838?style=flat-square&logo=googlechrome&logoColor=white)](https://getlima.app)
+[![MoWave](https://img.shields.io/badge/MoWave-mowaveone.com-6DB33F?style=flat-square&logo=googlechrome&logoColor=white)](https://mowaveone.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauamoraesaraujo)
