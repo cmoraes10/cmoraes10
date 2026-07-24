@@ -1,4 +1,5 @@
 # Cauã Moraes
+<!-- perfil -->
 
 **Backend developer from Salvador, Bahia.** I build reliable server-side systems and turn real-world data into products people actually use.
 
