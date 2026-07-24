@@ -20,7 +20,7 @@ Founder of **[MoWave](https://mowaveone.com)**, my software company, and the mak
 
 ### What I'm building
 
-**[Lima](https://getlima.app)** — my flagship product, a productivity app with **25,000+ users** that brings calendar, habits, money, tasks and journaling into a single place. It ships with an AI assistant, a WhatsApp bot for logging on the go, and two-way Google Calendar and Google Tasks sync.
+**[Lima](https://getlima.app)** — my flagship product, a productivity app with **25,000+ users** that brings calendar, habits, money and journaling into a single place. It ships with an AI assistant, a WhatsApp bot for logging on the go, and two-way Google Calendar and Google Tasks sync.
 
 ### Featured open-source
 
