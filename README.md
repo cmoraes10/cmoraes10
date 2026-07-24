@@ -2,7 +2,7 @@
 
 **Backend developer from Salvador, Bahia.** I build reliable server-side systems and turn real-world data into products people actually use.
 
-Founder of **[MoWave](https://mowaveone.com)**, my software company, and the maker of **Lima**, a mobile app with **25,000+ users**. Studying Software Engineering at UCSal, focused on AI agents and web ecosystems.
+Founder of **[MoWave](https://mowaveone.com)**, my software company, and the maker of **Lima**, a mobile app with **25,000+ users**. Focused on AI agents and web ecosystems.
 
 ### Tech I work with
 
